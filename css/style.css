@@ -1,0 +1,26 @@
+*{
+  margin:0;
+}
+body{
+  background-color:tomato;
+}
+.main{
+  margin:auto;
+  width:1500px;
+  font-size:25px;
+  background:white;
+  padding:20px;
+  border:30px dotted blue;
+}
+tr.oronno{
+  background: green;
+  color:white;
+  font-size:30px;
+  font-family:tahoma;
+}
+.bayzid{
+  text-align:justify;
+}
+.header{
+  text-align:center;
+}
